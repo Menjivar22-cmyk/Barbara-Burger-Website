@@ -1,1 +1,5 @@
-#this is the first website I am buildin to host Barbara's private language lessons to start ups and small to large businesses. 
+# Barbara Burger German Language Instructor
+
+Website for German language courses for businesses and companies.
+
+Website: https://menjivar22-cmyk.github.io/Barbara-Burger-Website/
